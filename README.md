@@ -1,4 +1,2 @@
-# LTTC-v1
- That porjuct chain polygon name token ( LATTTA )
-https://swap.arken.finance/tokens/polygon/0x36ca147a9cc9178e90c607e6258842c71924c6be
-contract 0xac998a2ba12b8275e1fafa40952a976e619b541e
+
+The Bored Ape Nike Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape Nike doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community through roadmap activation. Visit www.BoredThe Bored Ape Nike Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape Nike doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community through roadmap activation. Visit www.BoredApeNikeYachtClub.com for more details.ApeNikeYachtClub.com for more details.
